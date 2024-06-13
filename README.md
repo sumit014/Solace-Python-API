@@ -1,6 +1,6 @@
 # Solace-Python-API
 
-Solace is being used to connect to Advanced Event mesh which allows us to do event driven programming.
+Solace is being used to connect to Event Streaming platform like Kafka, SAP Advance Event Mesh(AEM) which allows us to do event driven programming.
 
 We bind to the service and then either use it to publish the message to topic or subscribe from queue.
 
